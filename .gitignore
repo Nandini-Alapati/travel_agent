@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+dist/
+build/
+*.egg-info/
+
+# dotenv
+.env
+
+# IDEs & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Poetry / lockfiles (optional)
+.poetry/
+poetry.lock
